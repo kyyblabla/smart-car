@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rs">
+        <file>Car3.3ds</file>
+        <file>back.png</file>
+        <file>qtlogo.png</file>
+        <file>sky.png</file>
+        <file>glass2.png</file>
+        <file>diban.jpg</file>
+        <file>device.3DS</file>
+        <file>wall_back.jpg</file>
+    </qresource>
+</RCC>
